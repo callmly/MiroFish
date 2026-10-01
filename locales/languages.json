@@ -27,4 +27,8 @@
     "label": "Deutsch",
     "llmInstruction": "Bitte antworten Sie auf Deutsch."
   }
+  "lt": {
+    "label": "Lietuvių",
+    "llmInstruction": "Prašau atsakyti lietuvių kalba. Visi įrašai, personos ir ataskaitos turi būti lietuvių kalba."
+  }
 }
